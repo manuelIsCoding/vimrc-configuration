@@ -5,7 +5,7 @@ My _.vimrc_ file configuration using Plug
 Clone the repository
 
   ```
-  git clone https://github.com/manuelIsCoding/vimrc-file/new/master
+  git clone https://github.com/manuelIsCoding/vimrc-file.git
   ```
 
 Overwrite all settings in .vimrc
